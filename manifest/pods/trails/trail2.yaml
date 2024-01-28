@@ -2,9 +2,9 @@
 apiVersion: v1
 kind: Pod
 metadata:
-  - name: trail2
+  name: trail2
 spec:
-  containers: 
+  containers:
     - name: lifetime1day
       image: alpine
       args:

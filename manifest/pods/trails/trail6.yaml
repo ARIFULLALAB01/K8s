@@ -1,5 +1,4 @@
 ---
-#Sidecar and init container
 apiVersion: v1
 kind: Pod
 metadata:
@@ -36,4 +35,4 @@ spec:
         - 1d
       resources:
         limits:
-          cpu: 1000mgit
+          cpu: 1000m

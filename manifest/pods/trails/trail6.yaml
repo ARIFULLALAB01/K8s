@@ -15,7 +15,7 @@ spec:
       image: alpine
       args:
         - sleep
-        - 10s
+        - 5s
     - name: init3
       image: alpine
       args:

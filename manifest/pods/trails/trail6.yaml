@@ -36,5 +36,4 @@ spec:
         - 1d
       resources:
         limits:
-          cpu: 1000m
-	
+          cpu: 1000mgit

@@ -21,9 +21,5 @@ spec:
         activity: excercise1
      spec:
       containers:
-        - name: incomaContainer
+        - name: IncomaContainer
           image: alpine
-          resources:
-            limits:
-              cpu: 500m
-              memory: 256Mi

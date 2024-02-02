@@ -19,7 +19,7 @@ spec:
      metadata:
       labels:
         activity: excercise1
-    spec:
+     spec:
       containers:
         - name: incomaContainer
           image: alpine

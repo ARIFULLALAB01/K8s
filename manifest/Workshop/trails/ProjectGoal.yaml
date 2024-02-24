@@ -1,0 +1,18 @@
+# WORKSHOP PROJECT EXPLAINED
+#-------------------------------------
+# https://github.com/khajaworkshopsAtQT/kubernetes/blob/main/Scenario.pdf
+
+##
+Scenario: Making Applications work on K8s
+Context:
+Dev team has developed an application which they were running locally so far. To run the application
+locally they were using docker compose.
+You are expected to understand the architecture of application and make it work on k8s.
+This is a pilot project. Your work should be written neutral to managed k8s solution
+This is a task for a sprint.
+Details
+Code Base: https://github.com/EdwinVW/pitstop
+
+Input: https://github.com/EdwinVW/pitstop/blob/main/src/docker-compose.yml
+
+--
